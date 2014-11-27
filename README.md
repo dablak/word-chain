@@ -7,7 +7,7 @@ Possible solution to the exercise proposed in the Aberdeen Python dojo of 26th N
 Goal
 ----
 
-Connect two words with a chain of words. All words must be valid and there must be only one character different between each neightbour.
+Connect two words with a chain of words. All words must be valid and there must be only one character different between each neighbour.
 
 For example: cat - cot - cog - dog
 
