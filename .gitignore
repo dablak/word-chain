@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# OS generated files
+.DS_Store
+
+# PyCharm generated files
+.idea
+atlassian-ide-plugin.xml
